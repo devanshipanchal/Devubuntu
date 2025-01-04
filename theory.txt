@@ -1,0 +1,12 @@
+#Decorators
+-> IN PYTHON decorators are a special kind of function that add extra functionality to another function.
+-> They do this without changing the others function's code.
+
+#Exception Handling#
+-> Exception Handling  in Python involves using special blocks of code.
+-> So that it can and handle errors or  "Exception" that occur when your program runs.
+-> The main keywords for exception Handling in Python are try,except,finally and raise.
+
+
+
+
